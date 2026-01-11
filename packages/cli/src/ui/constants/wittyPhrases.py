@@ -1,10 +1,4 @@
-/**
- * @license
- * Copyright 2025 Google LLC
- * SPDX-License-Identifier: Apache-2.0
- */
-
-export const WITTY_LOADING_PHRASES = [
+WITTY_LOADING_PHRASES = [
   "I'm Feeling Lucky",
   'Shipping awesomeness... ',
   'Painting the serifs back on...',
@@ -133,8 +127,5 @@ export const WITTY_LOADING_PHRASES = [
   'Have you tried turning it off and on again? (The loading screen, not me.)',
   'Constructing additional pylons...',
   'New line? That’s Ctrl+J.',
-  'Releasing the HypnoDrones...',
-  'Why is this there...',
-  'Python is good...',
-  'wittyPhrases.py'
-];
+  'Releasing the HypnoDrones...'
+]
